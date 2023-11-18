@@ -1,5 +1,5 @@
 {
-    "name": "Rock paper scisors",
+    "name": "Rock paper scissor",
     "description": "",
     "dependencies": {
         "core": "*",
